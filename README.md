@@ -2,8 +2,8 @@
 
 _Classification of steatosis dichotomized sets (LBUM/CRCHUM - Université de Montréal)_  
 
-This code is related to paper Comparison of Radiologists and Deep Learning for US Grading of Hepatic Steatosis
-Pedro Vianna, Sara-Ivana Calce, Pamela Boustros, Cassandra Larocque-Rigney, Laurent Patry-Beaudoin, Yi Hui Luo, Emre Aslan, John Marinos, Talal M. Alamri, Kim-Nhien Vu, Jessica Murphy-Lavallée, Jean-Sébastien Billiard, Emmanuel Montagnon, Hongliang Li, Samuel Kadoury, Bich N. Nguyen, Shanel Gauthier, Benjamin Therien, Irina Rish, Eugene Belilovsky, Guy Wolf, Michaël Chassé, Guy Cloutier, and An Tang
+This code is related to paper Comparison of Radiologists and Deep Learning for US Grading of Hepatic Steatosis  
+Pedro Vianna, Sara-Ivana Calce, Pamela Boustros, Cassandra Larocque-Rigney, Laurent Patry-Beaudoin, Yi Hui Luo, Emre Aslan, John Marinos, Talal M. Alamri, Kim-Nhien Vu, Jessica Murphy-Lavallée, Jean-Sébastien Billiard, Emmanuel Montagnon, Hongliang Li, Samuel Kadoury, Bich N. Nguyen, Shanel Gauthier, Benjamin Therien, Irina Rish, Eugene Belilovsky, Guy Wolf, Michaël Chassé, Guy Cloutier, and An Tang  
 Radiology 2023 309:1.  
 
 **Note  - To be updated**   
